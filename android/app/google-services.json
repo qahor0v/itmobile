@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995837605333",
+    "project_id": "it-mobile-fluttuz",
+    "storage_bucket": "it-mobile-fluttuz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995837605333:android:ccfadd3dfc24945ad0395c",
+        "android_client_info": {
+          "package_name": "com.fluttuz.itmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995837605333-p7havopmde96sfvgkf79sj7jg3at719d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAA3TYKiRsynBqD0c8K99AICQ6qzhMgu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995837605333-p7havopmde96sfvgkf79sj7jg3at719d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
