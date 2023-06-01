@@ -8,7 +8,7 @@ Ilovani ishlab chiqishda ishlatilgan package, widget va boshqa texnologiyalar
  
 - YouTube video player 
 - WebView 
-=======
+ 
 - YouTube video player
 - WebView
  
