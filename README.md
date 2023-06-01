@@ -11,7 +11,7 @@ Ilovani ishlab chiqishda ishlatilgan package, widget va boshqa texnologiyalar
 =======
 - YouTube video player
 - WebView
->>>>>>> 2dbb929 (Initial commit)
+ 
 - Lottie
 - Url Launcher
 - Firebase Storage/Auth
